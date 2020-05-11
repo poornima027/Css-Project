@@ -1,0 +1,9 @@
+.pic{
+    background-image: url(../Images/galaxyA9.jpg);
+    background-size: contain;
+  }
+  .pics{
+    background-image: url(../Images/Huawei.jpg);
+    background-size: cover;
+  }
+  
